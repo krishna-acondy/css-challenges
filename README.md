@@ -1,2 +1,2 @@
 # css-challenges
-CSS Challenges from 100dayscss.com
+CSS Challenges from https://100dayscss.com/
